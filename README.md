@@ -50,15 +50,10 @@ Landing page de produto com visual vibrante e animações de rolagem, desenvolvi
 
 **Tecnologias:** HTML | CSS | JavaScript | GSAP | ScrollTrigge (plugin do GSAP)
 
-### 🔹 [TABACARIA](https://tabacaria-ten.vercel.app)
-Site responsivo para uma tabacaria, desenvolvido com HTML e CSS e publicado no Vercel.
 
-**Tecnologias:** HTML, CSS
-
----
 
 ## 📫 Vamos conversar?
 
-- 💼 LinkedIn: [SEU-LINKEDIN](https://www.linkedin.com/in/SEU-PERFIL/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cleiton-barbosa-9ab201281)
 
 Estou aberto a oportunidades de estágio nos modelos **remoto, híbrido ou presencial**.
