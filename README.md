@@ -1,6 +1,6 @@
 # Olá, eu sou o Cleiton 👋
 
-### Estudante de TI | Desenvolvedor Full-Stack | Em busca do primeiro estágio
+### Estudante de TI | Desenvolvedor Full-Stack | Em busca da primeira oportunidade
 
 Cursando **Sistemas de Informações** na UniBarretos. Passei por outras áreas antes de descobrir que o que eu realmente gosto é de construir software, e desde então estudo e pratico todos os dias.
 
