@@ -1,16 +1,64 @@
-## Hi there 👋
+# Olá, eu sou o Cleiton 👋
 
-<!--
-**CleitonB3/CleitonB3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de TI | Desenvolvedor Full-Stack | Em busca do primeiro estágio
 
-Here are some ideas to get you started:
+Cursando **Sistemas de Informações** na UniBarrets. Passei por outras áreas antes de descobrir que o que eu realmente gosto é de construir software, e desde então estudo e pratico todos os dias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é **desenvolvimento full-stack com Java e Spring Boot**, criando APIs REST e interfaces web que se conectam a elas.
+
+---
+
+## 🛠️ Tecnologias
+
+**Back-end**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Front-end**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Estudando agora
+
+- React
+- Node.js
+- TypeScript
+- Inglês técnico (leitura de documentação)
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🔹 [NUTRI LENS](https://github.com/CleitonB3/Nutri-lens/tree/main)
+Aplicação web que analisa fotos de refeições com inteligência artificial e estima as calorias e os nutrientes de cada alimento identificado.
+
+**Tecnologias:** Next.js | TypeScript | Tailwind CSS e shadcn/ui | OpenAI API
+
+### 🔹 [PROJETO FANTA](https://github.com/CleitonB3/Fanta/tree/main)
+Landing page de produto com visual vibrante e animações de rolagem, desenvolvida com HTML, CSS e JavaScript puro e a biblioteca GSAP.
+
+**Tecnologias:** HTML | CSS | JavaScript | GSAP | ScrollTrigge (plugin do GSAP)
+
+### 🔹 [TABACARIA](https://tabacaria-ten.vercel.app)
+Site responsivo para uma tabacaria, desenvolvido com HTML e CSS e publicado no Vercel.
+
+**Tecnologias:** HTML, CSS
+
+---
+
+## 📫 Vamos conversar?
+
+- 💼 LinkedIn: [SEU-LINKEDIN](https://www.linkedin.com/in/SEU-PERFIL/)
+
+Estou aberto a oportunidades de estágio nos modelos **remoto, híbrido ou presencial**.
