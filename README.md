@@ -2,9 +2,9 @@
 
 ### Estudante de TI | Desenvolvedor Full-Stack | Em busca do primeiro estágio
 
-Cursando **Sistemas de Informações** na UniBarrets. Passei por outras áreas antes de descobrir que o que eu realmente gosto é de construir software, e desde então estudo e pratico todos os dias.
+Cursando **Sistemas de Informações** na UniBarretos. Passei por outras áreas antes de descobrir que o que eu realmente gosto é de construir software, e desde então estudo e pratico todos os dias.
 
-Meu foco é **desenvolvimento full-stack com Java e Spring Boot**, criando APIs REST e interfaces web que se conectam a elas.
+Meu foco é **desenvolvimento full-stack**.
 
 ---
 
